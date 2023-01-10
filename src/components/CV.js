@@ -60,9 +60,18 @@ return(
             <Row>
                 <Col>
                 <h3>Education</h3>
-                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <ul>
+                    <li>Technical School in Wałcz, Poland - IT technician profile</li>
+                    <li>Gdynia Maritime University, Poland - IT student</li>
+                </ul>
                  <h3>Excperience</h3>
-                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 <ul>
+                    <li>Internship in the company "Tursoft Marek Żuber" in Wałcz, 3 months. Assistance with server administration, building networks.</li>
+                    <li>Apprenticeship in the service "Meritum" in Gdańsk, a month. Servicing computer equipment, building networks.</li>
+                    <li>Seasonal job in company Micro Automatyka in Gdańsk, 6 months. Machine operator for assembly of SMD type electronic components.</li>
+                    <li>I created 2 websites for companies: "The Fox" cleaning company in Gdansk and <a href='http://www.montechserwis.com/'>"Montech Service Marine"</a>.</li>
+                    <li>Administers the website of the e-Business study circle: <a href='https://kneb.wznj.umg.edu.pl/'>KNEB</a>.</li>
+                </ul>
                 </Col>
             </Row>
         </Container>
